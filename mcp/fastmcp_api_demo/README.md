@@ -29,7 +29,3 @@ uv sync
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-## Access
-
-- **Container**: http://localhost:18000
-- **Direct**: http://localhost:8000
